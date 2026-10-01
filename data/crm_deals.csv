@@ -1,0 +1,325 @@
+deal_id,deal_name,company_name,vat_number,channel,partner_name,stage,amount,close_date,owner
+D1010,CREMONESI PACKAGING | PREMIUM | 2025,Cremonesi Packaging S.r.l.,33150 983930,Referral,,Closed Won,7510.0,2025-06-07,Giulia R.
+D1177,BRANCACCIO LOGISTICA | FLEX | 2025,Brancaccio Logistica S.r.l.s.,93040 785932,Direct,,Closed Won,8690.0,2025-03-11,Sara B.
+D1237,ANTONIONI PACKAGING | FLEX | 2025,Antonioni Packaging S.r.l.s.,IT 29671756551,Partner,Paghe & Co,Discovery,5720.0,2025-09-17,Giulia R.
+D1069,POLANI FARMACEUTICA | CORE | 2025,POLANI FARMACEUTICA S.P.A., 12499856984 ,Referral,,Closed Won,9280.0,2025-10-11,Andrea T.
+D1002,QUERINI ARREDAMENTI | PREMIUM | 2025,Querini Arredamenti S.p.A.,IT 10341316475,Referral,,Closed Won,10800.0,2025-12-04,Elena F.
+D1296,TRAPANI MECCANICA | CORE | 2025,Trapani Meccanica S.r.l.s.,IT 84982544948,Partner,Paghe & Co,Closed Lost,36480.0,2025-08-17,Elena F.
+D1252,CIMAROSA ALIMENTARI | PREMIUM | 2025,Cimarosa Alimentari S.p.A.,IT 01836675254,Referral,,Contract Sent,3750.0,2025-03-19,Giulia R.
+D1132,ROERO SOFTWARE | PREMIUM | 2025,Roero  Software  S.n.c.,IT15679334101,Direct,,Closed Won,23280.0,2025-09-07,Sara B.
+D1221,GALEATI SOFTWARE | CORE | 2025,Galeati Software S.p.A.,50305 641395,Partner,Consulenti Riuniti,Discovery,5060.0,2025-04-03,Sara B.
+D1320,TRENTIN SOFTWARE | FLEX | 2025,Trentin Software S.r.l.s.,IT 71709991738,Partner,Rete Imprese Nord,Negotiation,28620.0,2025-10-15,Elena F.
+D1150,ARMELLINI TRASPORTI | FLEX | 2025,Armellini Trasporti S.r.l.s.,IT 53714785969,Partner,Studio Aurora,Closed Won,7350.0,2025-05-28,Giulia R.
+D1140,FERMI IMPIANTI | CORE | 2025,Fermi  Impianti  S.n.c., 61839826224 ,Direct,,Closed Won,7690.0,2025-07-01,Luca M.
+D1188,NIBALI ALIMENTARI | PREMIUM | 2025,NIBALI ALIMENTARI S.R.L.S.,,Partner,Paghe & Co,Closed Won,6360.0,2025-07-10,Elena F.
+D1321,SCARPETTA CONSULTING | FLEX | 2025,Scarpetta Consulting S.r.l.s., 21752500743 ,Referral,,Discovery,13500.0,2025-05-17,Andrea T.
+D1086,TEDESCO PACKAGING | PREMIUM | 2025,Tedesco Packaging S.n.c.,IT46886239240,Direct,,Closed Won,14060.0,2025-10-05,Luca M.
+D1094,BONOLIS IMPIANTI | PREMIUM | 2025,Bonolis Impianti S.r.l.s.,79627570596,Referral,,Closed Won,11964.84,2025-01-20,Luca M.
+D1104,CUSANO TESSILE | FLEX | 2025,Cusano Tessile S.r.l.,IT 97289623091,Referral,,Closed Won,440.0,2025-12-08,Giulia R.
+D1133,TRAVIA ENERGIA | FLEX | 2025,travia energia s.n.c.,68700217659,Partner,Studio Aurora,Closed Won,9840.0,2025-11-02,Luca M.
+D1158,REGGE ARREDAMENTI | FLEX | 2025,Regge Arredamenti S.r.l.s.,15206436110,Partner,Paghe & Co,Closed Won,2879.93,2025-05-09,Sara B.
+D1135,MAZZINI ENERGIA | PREMIUM | 2025,Mazzini Energia S.r.l.s., 62185016315 ,Direct,,Closed Won,6170.0,2025-05-31,Giulia R.
+D1045,CAROCCI ARREDAMENTI | FLEX | 2025,Carocci Arredamenti S.n.c., 44431351823 ,Direct,,Closed Won,11330.0,2025-05-29,Elena F.
+D1291,MASTROIANNI TRASPORTI | CORE | 2025,Mastroianni Trasporti S.p.A.,58673622660,Referral,,Negotiation,15080.0,2025-11-18,Elena F.
+D1055,CERI CONSULTING | FLEX | 2025,Ceri  Consulting srl, 46584044997 ,Referral,,Discovery,8140.0,2025-06-15,Luca M.
+D1125,IMPASTATO SERVIZI | CORE | 2025,Impastato  Servizi srl,IT93204899642,Partner,Rete Imprese Nord,Closed Won,14510.0,2025-08-27,Sara B.
+D1046,MAGRASSI IMPIANTI | FLEX | 2025,magrassi impianti s.r.l.,82400842710,Direct,,Closed Won,5560.0,2025-10-01,Andrea T.
+D1120,MONDAINI SERVIZI | FLEX | 2025,Mondaini Servizi S.n.c.,IT 05685662462,Partner,Paghe & Co,Closed Won,16010.0,2025-04-18,Giulia R.
+D1278,BASSI SERVIZI | PREMIUM | 2025,Bassi Servizi S.r.l.s.,71208 267734,Referral,,Closed Lost,3960.0,2025-07-09,Luca M.
+D1068,NOLCINI MECCANICA | PREMIUM | 2025,Nolcini Meccanica S.r.l.s.,70076617711,Referral,,Closed Won,3734.52,2025-01-09,Luca M.
+D1198,MANZONI CONSULTING | PREMIUM | 2025,Manzoni  Consulting srl,IT 23303070534,Direct,,Closed Won,5732.92,2025-09-03,Luca M.
+D1313,CECI ARREDAMENTI | CORE | 2025,Ceci Arredamenti S.p.A.,70477434902,Direct,,Discovery,7500.0,2025-12-14,Andrea T.
+D1101,TOGLIATTI ELETTRONICA | CORE | 2025,Togliatti Elettronica S.n.c.,48016245650,Partner,Consulenti Riuniti,Closed Won,3550.0,2025-08-17,Giulia R.
+D1323,NONIS IMPIANTI | FLEX | 2025,Nonis Impianti S.p.A.,IT 08737530011,Referral,,Contract Sent,12620.0,2025-07-05,Giulia R.
+D1020,GENTILINI TRASPORTI | CORE | 2025,Gentilini  Trasporti  S.n.c.,IT84980841241,Referral,,Closed Won,21290.0,2025-01-05,Sara B.
+D1161,GIOVINE SOFTWARE | FLEX | 2025,Giovine  Software  S.r.l.,IT38999404389,Direct,,Closed Won,6864.0,2025-10-11,Giulia R.
+D1095,SATTA SOFTWARE | PREMIUM | 2025,Satta  Software  S.r.l.,16582029702,Partner,Paghe & Co,Closed Won,4660.0,2025-10-13,Sara B.
+D1317,ANASTASI ENERGIA | PREMIUM | 2025,Anastasi Energia S.r.l.,IT 08589944171,Direct,,Closed Lost,8570.0,2025-03-24,Luca M.
+D1052,GIRADELLO COSTRUZIONI | PREMIUM | 2025,Giradello Costruzioni S.n.c.,80876038597,Direct,,Closed Won,8200.0,2025-02-15,Sara B.
+D1033,GIACCONI IMPIANTI | CORE | 2025,Giacconi  Impianti  S.p.A.,IT32003791769,Referral,,Closed Won,4460.0,2025-09-07,Luca M.
+D1038,RENZI FARMACEUTICA | CORE | 2025,Renzi Farmaceutica S.p.A.,IT75564641708,Partner,Paghe & Co,Closed Won,6783.0,2025-07-19,Luca M.
+D1295,GALIAZZO PACKAGING | PREMIUM | 2025,Galiazzo Packaging S.r.l.,IT 33959629233,Direct,,Closed Lost,15340.0,2025-12-17,Andrea T.
+D1091,MAZZOCCHI FARMACEUTICA | PREMIUM | 2025,mazzocchi farmaceutica s.p.a.,IT77221704303,Partner,Studio Aurora,Closed Won,6310.0,2025-04-05,Andrea T.
+D1216,VITTURI MECCANICA | CORE | 2025,Vitturi Meccanica S.r.l.,45089935889,Partner,Consulenti Riuniti,Closed Won,4200.0,2025-02-03,Elena F.
+D1025,PAGANINI TRASPORTI | PREMIUM | 2025,Paganiin Trasporti S.p.A.,,Referral,,Closed Won,6020.0,2025-07-05,Luca M.
+D1169,FOCONI PACKAGING | CORE | 2025,Foconi Packaging SRL,IT53494937597,Partner,Paghe & Co,Closed Won,6800.0,2025-12-22,Andrea T.
+D1246,SERRAGLIO PACKAGING | PREMIUM | 2025,Serraglio Packaging S.r.l., 39005329318 ,Direct,,Closed Lost,7960.0,2025-11-16,Elena F.
+D1236,CUSANO COSTRUZIONI | PREMIUM | 2025,Cusano Costruzioni S.n.c., 46488771906 ,Referral,,Discovery,6440.0,2025-12-04,Luca M.
+D1316,PAGANINI TESSILE | CORE | 2025,Paganini Tessile S.p.A.,IT 46800722903,Direct,,Contract Sent,14790.0,2025-12-03,Andrea T.
+D1085,BENIGNI TESSILE | PREMIUM | 2025,Benigni Tessile S.n.c.,94738347359,Partner,Consulenti Riuniti,Closed Won,13540.0,2025-06-24,Andrea T.
+D1245,GABBA PACKAGING | FLEX | 2025,Gabba Packaging S.n.c.,IT 35158506431,Partner,Studio Aurora,Negotiation,18460.0,2025-10-02,Luca M.
+D1070,BERNINI PACKAGING | FLEX | 2025,Bernini  Packaging  S.n.c.,IT 11836736576,Direct,,Closed Won,3980.0,2025-10-26,Elena F.
+D1303,PISTOLETTO COSTRUZIONI | PREMIUM | 2025,Pistoletto Costruzioni S.p.A.,80003 075622,Referral,,Contract Sent,8340.0,2025-06-10,Luca M.
+D1282,POMETTA IMPIANTI | CORE | 2025,Pometta Impianti S.r.l.s.,93327279568,Direct,,Negotiation,10530.0,2025-06-23,Sara B.
+D1180,GUINIZZELLI TRASPORTI | FLEX | 2025,Guinizzelli Trasporti S.n.c.,01039308705,Direct,,Closed Won,4590.0,2025-10-30,Giulia R.
+D1153,PASTINE PACKAGING | PREMIUM | 2025,PASTINE PACKAGING S.R.L.,IT 50723688767,Partner,Studio Aurora,Closed Won,5700.0,2025-12-17,Elena F.
+D1075,CABRINI IMPIANTI | PREMIUM | 2025,Cabrini Impianti S.r.l.,IT60529751613,Partner,Paghe & Co,Closed Won,6170.0,2025-09-14,Elena F.
+D1250,MORLACCHI SERVIZI | CORE | 2025,Morlacchi Servizi S.r.l.,52809 885165,Direct,,Negotiation,21110.0,2025-10-23,Elena F.
+D1274,AGAZZI FARMACEUTICA | FLEX | 2025,Agazzi Farmaceutica S.r.l.s.,IT26949588879,Partner,Studio Aurora,Closed Lost,10740.0,2025-03-18,Andrea T.
+D1029,PARISI COSTRUZIONI | PREMIUM | 2025,Parisi Costruzioni S.r.l.s.,84656482366,Referral,,Closed Won,4820.0,2025-05-09,Luca M.
+D1292,BONOMO COSTRUZIONI | FLEX | 2025,Bonomo Costruzioni S.p.A.,IT 41252866929,Direct,,Negotiation,28330.0,2025-03-08,Elena F.
+D1059,PALOMBI IMPIANTI | CORE | 2025,Palombi Impianti S.p.A.,16117240050,Referral,,Closed Won,6030.0,2025-02-19,Luca M.
+D1028,DALLA SOFTWARE | CORE | 2025,Dalla Software S.r.l.,IT60883561595,Partner,Consulenti Riuniti,Closed Won,11480.0,2025-03-18,Elena F.
+D1264,TOGNAZZI ALIMENTARI | PREMIUM | 2025,Tognazzi Alimentari S.p.A.,IT 85654310278,Partner,Rete Imprese Nord,Closed Lost,7280.0,2025-05-10,Andrea T.
+D1183,MORESI TRASPORTI | CORE | 2025,Moresi Trasporti S.r.l.s.,IT 39264422096,Partner,Studio Aurora,Closed Won,6630.0,2025-12-27,Giulia R.
+D1078,BIAGIOTTI ELETTRONICA | CORE | 2025,BIAGIOTTI ELETTRONICA S.N.C.,IT 44905814770,Direct,,Closed Won,6450.0,2025-01-23,Giulia R.
+D1232,MORPURGO PLASTICA | PREMIUM | 2025,Morpurgo Plastica S.n.c.,49894 134352,Partner,Consulenti Riuniti,Negotiation,9900.0,2025-12-05,Sara B.
+D1308,SRAFFA ARREDAMENTI | FLEX | 2025,Sraffa Arredamenti S.p.A.,IT74741124903,Partner,Consulenti Riuniti,Contract Sent,7260.0,2025-01-14,Andrea T.
+D1170,PELLI PLASTICA | FLEX | 2025,Pelli Plastica S.p.A.,20603850506,Referral,,Closed Won,7860.0,2025-04-03,Sara B.
+D1027,UDINESE MECCANICA | CORE | 2025,Udinese Meccanica S.r.l.,96556981693,Referral,,Closed Won,6140.0,2025-10-22,Luca M.
+D1096,CHIAPPETTA ENERGIA | CORE | 2025,Chiappetta Energia S.r.l.,IT44739473121,Referral,,Closed Won,4340.0,2025-01-28,Andrea T.
+D1011,cabibbo consulting | core | 2025,Cabibbo Consulting S.n.c.,IT37631165667,Referral,,Closed Won,3280.0,2025-06-23,Giulia R.
+D1058,MAZZACURATI FARMACEUTICA | PREMIUM | 2025,Mazzacurati  Farmaceutica S.n.c.,IT15865780913,Referral,,Closed Won,3000.0,2025-12-04,Elena F.
+D1298,RUBBIA LOGISTICA | FLEX | 2025,Rubbia Logistica S.r.l.,IT27706324241,Referral,,Contract Sent,7540.0,2025-12-13,Giulia R.
+D1212,LEOPARDI COSTRUZIONI | PREMIUM | 2025,leopardi costruzioni s.p.a.,04556110022,Direct,,Closed Won,29850.0,2025-12-26,Giulia R.
+D1275,CESCHI IMPIANTI | CORE | 2025,Ceschi Impianti S.n.c.,IT05516940974,Direct,,Closed Lost,10860.0,2025-12-11,Andrea T.
+D1281,NITTO FARMACEUTICA | PREMIUM | 2025,Nitto Farmaceutica S.r.l.s.,IT93296685161,Partner,Studio Aurora,Discovery,4700.0,2025-07-22,Andrea T.
+D1179,FAGGIANI FARMACEUTICA | CORE | 2025,Faggiani  Farmaceutica  S.r.l.s.,90599 293784,Referral,,Closed Won,15670.0,2025-04-21,Luca M.
+D1220,GAROZZO SOFTWARE | FLEX | 2025,Garozzo Software S.r.l.,26542 351161,Referral,,Negotiation,9080.0,2025-02-20,Giulia R.
+D1200,NAPOLITANO ARREDAMENTI | CORE | 2025,Napolitano Arredamenti S.r.l.s.,IT 24140602933,Referral,,Closed Won,4440.0,2025-11-06,Andrea T.
+D1089,ZETTICCI ARREDAMENTI - CORE - 2025,ZETTICCI ARREDAMENTI S.R.L.,88888067065,Referral,,Closed Won,3380.0,2025-11-23,Elena F.
+D1093,SARAGAT SOFTWARE | FLEX | 2025,Saragat Software S.r.l.,IT 61692845115,Referral,,Closed Won,4980.0,2025-11-08,Elena F.
+D1003,BAGGIO TRASPORTI | FLEX | 2025,Baggio Trasporti S.r.l.s., 53419283276 ,Direct,,Closed Won,11960.0,2025-01-09,Luca M.
+D1154,CANETTA MECCANICA | FLEX | 2025,Canetta Meccanica S.n.c.,IT83613407451,Direct,,Closed Won,11900.0,2025-03-03,Elena F.
+D1238,GIUSTI PACKAGING | CORE | 2025,Giusti Packaging S.r.l., 34824771093 ,Partner,Studio Aurora,Negotiation,5580.0,2025-03-07,Sara B.
+D1222,MORPURGO TRASPORTI | CORE | 2025,Morpurgo Trasporti S.r.l.s., 89638346578 ,Direct,,Closed Lost,6880.0,2025-03-05,Sara B.
+D1119,FERRAGNI FARMACEUTICA | FLEX | 2025,Ferragni Farmaceutica S.p.A., 42836440892 ,Direct,,Closed Won,11158.03,2025-09-25,Sara B.
+D1269,CAMMARATA FARMACEUTICA | FLEX | 2025,Cammarata Farmaceutica S.r.l.,01094 396907,Direct,,Closed Lost,8520.0,2025-11-25,Giulia R.
+D1009,CUOMO IMPIANTI | CORE | 2025,Cuomo Impianti S.p.A.,03911 718227,Partner,Paghe & Co,Closed Won,8330.0,2025-12-15,Luca M.
+D1111,CUTULI LOGISTICA | PREMIUM | 2025,Cutuli Logistica S.r.l.s.,IT 53017426841,Partner,Studio Aurora,Closed Won,2800.0,2025-06-07,Sara B.
+D1202,STOPPANI FARMACEUTICA | FLEX | 2025,Stoppani  Farmaceutica  S.r.l.s.,IT54443283096,Referral,,Closed Won,3480.0,2025-03-13,Elena F.
+D1199,ZICHICHI ARREDAMENTI | CORE | 2025,Zichichi Arredamenti S.n.c.,86103579727,Partner,Paghe & Co,Closed Won,10150.0,2025-04-24,Giulia R.
+D1113,INTERIANO MECCANICA | FLEX | 2025,Interiano Meccanica S.n.c., 28679087406 ,Partner,Paghe & Co,Closed Won,9490.0,2025-11-18,Andrea T.
+D1117,MARINO LOGISTICA | CORE | 2025,Marino Logistica S.p.A.,31190 790306,Direct,,Closed Won,4160.0,2025-01-20,Andrea T.
+D1035,FRANCESCHI SERVIZI | PREMIUM | 2025,Franceschi Servizi S.n.c., 27743487347 ,Partner,Paghe & Co,Closed Won,8630.0,2025-08-16,Luca M.
+D1257,SANTORIO TRASPORTI | FLEX | 2025,Santorio Trasporti S.r.l., 37788925546 ,Partner,Rete Imprese Nord,Closed Lost,15230.0,2025-01-29,Sara B.
+D1276,PACOMIO CONSULTING | FLEX | 2025,Pacomio Consulting S.r.l.s.,IT04157473384,Partner,Consulenti Riuniti,Negotiation,9470.0,2025-07-15,Luca M.
+D1065,BAJARDI COSTRUZIONI | PREMIUM | 2025,Bajardi Costruzioni S.p.A., 70985931746 ,Direct,,Closed Won,6090.0,2025-02-23,Sara B.
+D1131,ROERO SOFTWARE | PREMIUM | 2025,Roero Software S.n.c.,15679 334101,Direct,,Closed Won,23280.0,2025-09-07,Giulia R.
+D1064,BONDUMIER ARREDAMENTI | PREMIUM | 2025,Bondumier Arredamenti S.r.l.s.,24745 171236,Referral,,Closed Won,3660.0,2025-04-02,Elena F.
+D1152,PORZIO ENERGIA | PREMIUM | 2025,Porzio Energia S.n.c.,IT27828274225,Direct,,Closed Won,21170.0,2025-10-29,Giulia R.
+D1312,FILIPPELLI LOGISTICA | CORE | 2025,Filippelli Logistica S.n.c.,14973 103241,Direct,,Contract Sent,6680.0,2025-10-11,Elena F.
+D1077,SPANEVELLO PLASTICA | FLEX | 2025,Spanevello Plastica S.r.l.s., 52312432921 ,Direct,,Closed Won,9680.0,2025-06-28,Sara B.
+D1225,INTERMINELLI MECCANICA | CORE | 2025,Interminelli Meccanica S.p.A.,17278895798,Direct,,Contract Sent,9530.0,2025-12-14,Elena F.
+D1164,CICILIA ALIMENTARI | CORE | 2025,Cicilia Alimentari S.r.l.s.,IT63031617990,Direct,,Closed Won,5663.0,2025-04-30,Giulia R.
+D1142,MANUNTA SOFTWARE | PREMIUM | 2025,Manunta Software S.p.A.,79937124065,Direct,,Closed Won,6660.0,2025-11-09,Elena F.
+D1143,VESPA ENERGIA | PREMIUM | 2025,Vespa Energia S.r.l.s., 75692459375 ,Partner,Rete Imprese Nord,Closed Won,4719.0,2025-01-06,Andrea T.
+D1016,PARETO MECCANICA | CORE | 2025,pareto meccanica s.r.l.,IT 97882081219,Partner,Paghe & Co,Closed Won,12480.0,2025-10-26,Andrea T.
+D1106,ZAMENGO CONSULTING | FLEX | 2025,Zamengo Consulting S.p.A.,85786 527858,Partner,Studio Aurora,Closed Won,3950.0,2025-07-08,Sara B.
+D1319,ROCCA CONSULTING | CORE | 2025,Rocca Consulting S.r.l.s.,IT 82513534655,Partner,Consulenti Riuniti,Closed Lost,5730.0,2025-01-10,Giulia R.
+D1219,LEONE ALIMENTARI | FLEX | 2025,Leone Alimentari S.p.A.,IT38908386379,Referral,,Negotiation,2370.0,2025-09-28,Giulia R.
+D1121,BONANNO ELETTRONICA | FLEX | 2025,Bonanno Elettronica S.p.A.,IT34270866882,Referral,,Closed Won,4690.0,2025-11-15,Elena F.
+D1262,CHECHI FARMACEUTICA | PREMIUM | 2025,Chechi Farmaceutica S.r.l.s.,15667 652775,Partner,Consulenti Riuniti,Negotiation,4300.0,2025-06-12,Sara B.
+D1019,BONANNO PACKAGING | PREMIUM | 2025,Bonanno Packaging S.r.l.,IT18384251354,Direct,,Closed Won,15670.0,2025-05-13,Luca M.
+D1041,CAPECCHI COSTRUZIONI | PREMIUM | 2025,Capecchi Costruzioni S.r.l.,IT58651850671,Partner,Studio Aurora,Closed Won,5100.0,2025-06-07,Elena F.
+D1290,CABRINI COSTRUZIONI | FLEX | 2025,Cabrini Costruzioni S.n.c.,75140105123,Direct,,Contract Sent,22100.0,2025-06-15,Andrea T.
+D1175,SCHICCHI ARREDAMENTI | FLEX | 2025,Schicchi  Arredamenti S.p.A.,IT24472099934,Direct,,Closed Won,7371.0,2025-07-31,Andrea T.
+D1209,PARINI PLASTICA | CORE | 2025,Parini Plastica S.r.l.,IT98215064890,Referral,,Closed Won,3960.0,2025-02-09,Elena F.
+D1123,VALGUARNERA ENERGIA | CORE | 2025,Valguarnera Energia S.r.l., 13983735403 ,Direct,,Closed Won,6060.0,2025-07-20,Andrea T.
+D1092,Impastato Meccanica S.r.l.s. Flex,Impastato Meccanica S.r.l.s., 48687403450 ,Direct,,Closed Won,3223.71,2025-04-14,Sara B.
+D1004,TIRABASSI PLASTICA | FLEX | 2025,tirabassi plastica s.n.c.,67242388496,Referral,,Closed Won,6480.0,2025-01-20,Elena F.
+D1138,PINAMONTE ARREDAMENTI | FLEX | 2025,Pinamonte Arredamenti S.r.l.,10475412126,Direct,,Closed Won,1435.0,2025-03-06,Luca M.
+D1309,LATTUADA FARMACEUTICA | CORE | 2025,Lattuada Farmaceutica S.p.A.,13568044206,Partner,Studio Aurora,Closed Lost,6190.0,2025-03-17,Giulia R.
+D1128,PAVANELLO ELETTRONICA | PREMIUM | 2025,pavanello elettronica s.n.c.,00886 008484,Partner,Consulenti Riuniti,Closed Won,16090.0,2025-09-30,Andrea T.
+D1008,LETTIERE PLASTICA | CORE | 2025,Lettiere Plastica S.p.A.,IT52880957015,Partner,Rete Imprese Nord,Closed Won,12210.0,2025-06-11,Sara B.
+D1155,BENIGNI COSTRUZIONI | FLEX | 2025,Benigni Costruzioni S.p.A.,60422 325367,Referral,,Closed Won,9280.0,2025-08-28,Sara B.
+D1197,GOLINO PACKAGING | FLEX | 2025,Golino Packaging S.p.A.,IT 67850821486,Partner,Rete Imprese Nord,Closed Won,24010.0,2025-09-17,Elena F.
+D1174,PIRANDELLO COSTRUZIONI | FLEX | 2025,Pirandello Costruzioni S.r.l.,IT70296670662,Referral,,Closed Won,960.0,2025-10-31,Sara B.
+D1167,BOCCHERINI ELETTRONICA | CORE | 2025,Boccherini Elettronica S.n.c.,85079 252419,Direct,,Closed Won,14687.12,2025-06-21,Elena F.
+D1248,CAGNIN SERVIZI | PREMIUM | 2025,Cagnin Servizi S.r.l.,IT 17758917839,Referral,,Closed Lost,6140.0,2025-08-10,Elena F.
+D1301,LUCCIANO LOGISTICA | PREMIUM | 2025,Lucciano Logistica S.r.l.s., 52696582710 ,Referral,,Negotiation,4870.0,2025-08-26,Elena F.
+D1261,GOZZI COSTRUZIONI | FLEX | 2025,Gozzi Costruzioni S.r.l.s.,34103 697117,Partner,Paghe & Co,Negotiation,7830.0,2025-03-31,Giulia R.
+D1173,PELLEGRINI ARREDAMENTI | CORE | 2025,PELLEGRINI ARREDAMENTI S.R.L., 99410137215 ,Direct,,Closed Won,3713.31,2025-08-21,Andrea T.
+D1258,BETTIN ELETTRONICA | PREMIUM | 2025,Bettin Elettronica S.r.l.s.,81814 124782,Direct,,Closed Lost,3830.0,2025-12-10,Elena F.
+D1255,FUSELI TRASPORTI | PREMIUM | 2025,Fuseli Trasporti S.n.c.,79979 955271,Partner,Studio Aurora,Closed Lost,4660.0,2025-09-06,Sara B.
+D1293,PIAZZI SERVIZI | CORE | 2025,Piazzi Servizi S.n.c.,72190 340438,Direct,,Negotiation,11180.0,2025-11-05,Andrea T.
+D1044,VISCONTI TESSILE | FLEX | 2025,Visconti  Tessile S.n.c.,IT 34957885685,Referral,,Discovery,4590.0,2025-05-03,Sara B.
+D1026,BONGIORNO ALIMENTARI | CORE | 2025,Bongiorno Alimentari S.r.l.s.,58685 014294,Partner,Rete Imprese Nord,Closed Won,15660.0,2025-04-05,Sara B.
+D1030,VOLTA TRASPORTI | FLEX | 2025,Volta Trasporti SRLs.,IT 68044369957,Direct,,Closed Won,13870.0,2025-11-19,Elena F.
+D1024,OSSANI IMPIANTI | CORE | 2025,Ossani Impianti S.r.l.s.,IT05331586923,Partner,Studio Aurora,Closed Won,6590.0,2025-09-15,Elena F.
+D1285,BABATO PLASTICA | FLEX | 2025,Babato Plastica S.r.l.,73936385467,Direct,,Closed Lost,3890.0,2025-01-28,Luca M.
+D1098,VENTO ALIMENTARI | CORE | 2025,Vento Alimentari S.n.c.,IT 78528922680,Partner,Consulenti Riuniti,Closed Won,6902.0,2025-04-14,Giulia R.
+D1082,MALENCHINI ENERGIA | FLEX | 2025,MALENCHINI ENERGIA S.R.L.S.,,Partner,Consulenti Riuniti,Closed Won,22240.0,2025-02-20,Luca M.
+D1294,COMISSO IMPIANTI | PREMIUM | 2025,Comisso Impianti S.p.A.,IT79788191485,Referral,,Closed Lost,2850.0,2025-05-26,Sara B.
+D1186,SEGRÈ COSTRUZIONI | CORE | 2025,Segrè Costruzioni SRL,IT06762676586,Direct,,Closed Won,4730.0,2025-12-27,Luca M.
+D1314,SCARPETTA ELETTRONICA | FLEX | 2025,Scarpetta Elettronica S.p.A., 74160898992 ,Partner,Rete Imprese Nord,Contract Sent,5290.0,2025-08-31,Sara B.
+D1184,LETTIERE MECCANICA | PREMIUM | 2025,Lettiere Meccanica S.p.A., 95939172513 ,Partner,Consulenti Riuniti,Closed Won,5790.0,2025-08-07,Giulia R.
+D1112,POLIZZI PLASTICA | CORE | 2025,Polizzi Plastica S.p.A.,IT 25871397187,Direct,,Closed Won,13610.0,2025-01-15,Andrea T.
+D1088,BRAGADIN LOGISTICA | CORE | 2025,Bragadin Logistica S.p.A.,IT24609539621,Direct,,Closed Won,3030.0,2025-03-02,Sara B.
+D1006,VERDONE ALIMENTARI | PREMIUM | 2025,Verdone Alimentari S.n.c.,IT69784801845,Direct,,Closed Won,17680.0,2025-08-06,Giulia R.
+D1241,TRAPANESE IMPIANTI | CORE | 2025,Trapanese Impianti S.r.l.s., 56238692221 ,Referral,,Contract Sent,3390.0,2025-12-03,Elena F.
+D1213,TRAETTA FARMACEUTICA | CORE | 2025,Traetta Farmaceutica SRLs.,IT 79415521667,Referral,,Closed Won,5120.0,2025-08-15,Giulia R.
+D1253,FALCONE FARMACEUTICA | FLEX | 2025,Falcone Farmaceutica S.r.l.,IT 02290147679,Partner,Rete Imprese Nord,Closed Lost,3850.0,2025-11-21,Andrea T.
+D1103,LERCARI ENERGIA | CORE | 2025,Lercari Energia S.r.l.,IT 00257872982,Direct,,Closed Won,5950.0,2025-01-04,Elena F.
+D1083,BIAGI FARMACEUTICA | CORE | 2025,Biagi Farmaceutica S.n.c.,IT 33221418880,Direct,,Closed Won,8760.0,2025-01-21,Andrea T.
+D1215,PISANO PACKAGING | FLEX | 2025,Pisano Packaging S.p.A.,96590277167,Direct,,Closed Won,3010.0,2025-08-09,Elena F.
+D1176,UDINESE ELETTRONICA | CORE | 2025,Udinese Elettronica S.n.c.,IT 87014626383,Partner,Consulenti Riuniti,Closed Won,6410.0,2025-03-11,Sara B.
+D1193,CAROCCI SOFTWARE | PREMIUM | 2025,Carocci Software SRLs.,11686854870,Partner,Paghe & Co,Closed Won,4450.0,2025-09-05,Luca M.
+D1322,MODIANO PLASTICA | FLEX | 2025,Modiano Plastica S.r.l., 46184992618 ,Direct,,Discovery,2760.0,2025-08-23,Luca M.
+D1063,GALUPPI IMPIANTI | PREMIUM | 2025,Galuppi Impianti S.n.c., 09521456232 ,Referral,,Closed Won,3838.62,2025-04-21,Luca M.
+D1053,BRICCIALDI TRASPORTI | FLEX | 2025,Briccialdi Trasporti S.r.l.s., 80861317127 ,Direct,,Closed Won,5784.5,2025-10-02,Sara B.
+D1071,GRASSO SERVIZI | PREMIUM | 2025,Grasso  Servizi srl,,Direct,,Closed Won,3800.0,2025-09-05,Giulia R.
+D1178,CHITTOLINI COSTRUZIONI | CORE | 2025,Chittolini Costruzioni S.p.A., 34803965223 ,Referral,,Closed Won,12180.0,2025-11-23,Luca M.
+D1304,VENIER MECCANICA | FLEX | 2025,Venier Meccanica S.n.c., 35365419518 ,Direct,,Negotiation,7200.0,2025-04-19,Giulia R.
+D1137,PIZZETTI ENERGIA | CORE | 2025,PizzettiE nergia S.r.l.,,Direct,,Closed Won,5300.0,2025-12-06,Sara B.
+D1031,MOCENIGO PACKAGING | CORE | 2025,Mocenigo Packaging S.n.c.,IT38721489513,Referral,,Closed Won,5280.0,2025-06-29,Elena F.
+D1005,ZAMORANI ENERGIA | FLEX | 2025,Zamorani  Energia  S.r.l.s.,32871 012269,Direct,,Closed Won,9840.0,2025-07-09,Andrea T.
+D1129,PAVANELLO ELETTRONICA | PREMIUM | 2025,Pavanello  Elettronica  S.n.c.,00886008484,Partner,Consulenti Riuniti,Closed Won,16090.0,2025-09-30,Sara B.
+D1224,FOSCARI ELETTRONICA | PREMIUM | 2025,Foscari Elettronica S.p.A.,37543 303654,Partner,Consulenti Riuniti,Discovery,4220.0,2025-11-04,Andrea T.
+D1049,MANCINI ELETTRONICA | PREMIUM | 2025,Mancini Elettronica S.r.l.s.,IT 03447134936,Direct,,Closed Won,9260.0,2025-12-07,Luca M.
+D1134,ORTOLANI COSTRUZIONI | CORE | 2025,Ortolani Costruzioni SRL,IT 33974014890,Partner,Paghe & Co,Closed Won,7330.0,2025-10-23,Sara B.
+D1146,MILANESI TESSILE | FLEX | 2025,Milanesi Tessile S.r.l.s.,26617 979688,Referral,,Closed Won,14040.0,2025-10-30,Luca M.
+D1014,BATTAGLIA TRASPORTI | FLEX | 2025,Battaglia Trasporti S.n.c., 77360260647 ,Partner,Consulenti Riuniti,Closed Won,3150.0,2025-09-23,Elena F.
+D1148,DONARELLI TESSILE | CORE | 2025,Donarelli Tessile S.n.c.,IT 56798250714,Direct,,Closed Won,4360.0,2025-11-23,Giulia R.
+D1306,ALBERTINI SERVIZI | CORE | 2025,Albertini Servizi S.r.l.s., 71918261990 ,Referral,,Negotiation,20090.0,2025-09-07,Giulia R.
+D1159,SALGARI CONSULTING | FLEX | 2025,Salgari Consulting S.n.c.,13611155426,Partner,Studio Aurora,Closed Won,8210.0,2025-09-09,Andrea T.
+D1050,MOCCIA FARMACEUTICA | PREMIUM | 2025,Moccia Farmaceutica S.r.l.s.,IT01399049027,Partner,Studio Aurora,Closed Won,20520.0,2025-05-10,Luca M.
+D1022,CALLEGARO ALIMENTARI | FLEX | 2025,CALLEGARO ALIMENTARI S.N.C.,40052427868,Referral,,Closed Won,4780.0,2025-05-08,Andrea T.
+D1181,MONACO PLASTICA | CORE | 2025,Monaco Plastica S.p.A.,52500292185,Referral,,Closed Won,11870.0,2025-08-06,Luca M.
+D1165,GIANINAZZI IMPIANTI | PREMIUM | 2025,Gianinazzi Impianti S.p.A.,10202 758842,Partner,Studio Aurora,Closed Won,3108.0,2025-01-26,Giulia R.
+D1239,IANNUZZI ENERGIA | CORE | 2025,Iannuzzi Energia S.p.A.,IT60576627028,Direct,,Closed Lost,4700.0,2025-07-30,Giulia R.
+D1242,MORETTI COSTRUZIONI | CORE | 2025,Moretti Costruzioni S.p.A., 69594406409 ,Partner,Paghe & Co,Negotiation,10630.0,2025-01-12,Giulia R.
+D1144,MARENZIO TRASPORTI | CORE | 2025,Marenzio  Trasporti  S.n.c., 54793564651 ,Referral,,Closed Won,5520.0,2025-11-02,Elena F.
+D1230,BOCCACCIO SOFTWARE | FLEX | 2025,Boccaccio Software S.r.l.s.,31473799650,Direct,,Closed Lost,14900.0,2025-11-18,Giulia R.
+D1208,GORI FARMACEUTICA | CORE | 2025,Gori Farmaceutica S.n.c.,25753 260332,Direct,,Closed Won,11400.0,2025-03-25,Sara B.
+D1162,ROSSELLI PLASTICA | CORE | 2025,Rosselli  Plastica  S.n.c., 40376137918 ,Direct,,Closed Won,2637.42,2025-04-08,Giulia R.
+D1231,PARUTA ELETTRONICA | CORE | 2025,Paruta Elettronica S.r.l.s.,IT 27354549480,Referral,,Closed Lost,4150.0,2025-04-02,Giulia R.
+D1007,GALUPPI COSTRUZIONI | PREMIUM | 2025,Galuppi Costruzioni S.r.l.s., 62704828148 ,Direct,,Negotiation,14520.0,2025-04-07,Elena F.
+D1182,SANTORIO ALIMENTARI | PREMIUM | 2025,Santorio Alimentari S.r.l.s.,IT69154522675,Direct,,Closed Won,4157.01,2025-11-28,Elena F.
+D1043,TRUPIANO PLASTICA | FLEX | 2025,Trupiano Plastica S.r.l.,36783 777014,Partner,Consulenti Riuniti,Closed Won,14880.0,2025-04-07,Andrea T.
+D1206,GOVONI MECCANICA | FLEX | 2025,Govoni Meccanica S.p.A., 50583003354 ,Referral,,Closed Won,4140.0,2025-02-04,Andrea T.
+D1166,Corradi Arredamenti S.p.A. Core,Corradi  Arredamenti S.p.A.,IT 41056481491,Direct,,Closed Won,9120.0,2025-02-02,Elena F.
+D1324,MORRICONE ELETTRONICA | PREMIUM | 2025,Morricone Elettronica S.p.A.,IT 18114374470,Partner,Consulenti Riuniti,Closed Lost,14250.0,2025-03-20,Andrea T.
+D1189,BAJAMONTI SOFTWARE | CORE | 2025,Bajamonti  Software  S.r.l.s.,43106987205,Referral,,Closed Won,6390.0,2025-12-11,Giulia R.
+D1114,BAROZZI MECCANICA | PREMIUM | 2025,Barozzi Meccanica S.r.l.s.,IT62265676618,Referral,,Closed Won,3500.0,2025-06-11,Sara B.
+D1172,SPANEVELLO PACKAGING | CORE | 2025,Spanevello Packaging S.p.A.,17121003236,Referral,,Closed Won,18210.0,2025-03-23,Sara B.
+D1277,RICCATI SOFTWARE | FLEX | 2025,Riccati Software S.p.A.,IT 19933083301,Direct,,Negotiation,4300.0,2025-07-29,Luca M.
+D1139,VISMARA PACKAGING | PREMIUM | 2025,Vismara Packaging S.n.c., 10158199560 ,Partner,Consulenti Riuniti,Closed Won,2600.0,2025-08-01,Andrea T.
+D1227,CILEA TESSILE | FLEX | 2025,Cilea Tessile S.r.l.s.,IT67065627298,Partner,Rete Imprese Nord,Closed Lost,9840.0,2025-03-28,Elena F.
+D1102,GREGORIO ENERGIA | FLEX | 2025,Gregorio  Energia srl,98358 416878,Direct,,Closed Won,10340.0,2025-10-06,Andrea T.
+D1060,CASINI ENERGIA | FLEX | 2025,Casini Energia S.p.A.,79237 474074,Direct,,Closed Won,3950.0,2025-02-20,Elena F.
+D1100,LANFRANCHI COSTRUZIONI | PREMIUM | 2025,lanfranchi costruzioni s.r.l.s.,IT37147321046,Referral,,Closed Won,4180.0,2025-06-21,Luca M.
+D1105,VILLADICANI PLASTICA | FLEX | 2025,Villadicani Plastica S.r.l., 75626368970 ,Partner,Consulenti Riuniti,Discovery,6230.0,2025-12-11,Andrea T.
+D1204,VARANO COSTRUZIONI | FLEX | 2025,Varano Costruzioni S.n.c., 84602235697 ,Partner,Paghe & Co,Closed Won,4223.74,2025-10-11,Luca M.
+D1310,PERTILE LOGISTICA | PREMIUM | 2025,Pertile Logistica S.n.c.,IT57875985642,Direct,,Negotiation,11140.0,2025-08-19,Giulia R.
+D1160,GRAMSCI CONSULTING | FLEX | 2025,GRAMSCI CONSULTING S.P.A.,18909 275326,Partner,Rete Imprese Nord,Closed Won,23990.0,2025-07-03,Elena F.
+D1205,INZAGHI TRASPORTI | FLEX | 2025,Inzaghi Trasporti S.p.A.,IT 71296666760,Referral,,Closed Won,4260.0,2025-11-24,Andrea T.
+D1023,LETTIERE LOGISTICA | PREMIUM | 2025,lettiere logistica s.r.l., 12805982620 ,Partner,Consulenti Riuniti,Closed Won,5700.0,2025-10-22,Giulia R.
+D1288,FUSELI ENERGIA | PREMIUM | 2025,Fuseli Energia S.r.l.s., 61014388899 ,Referral,,Closed Lost,7400.0,2025-05-20,Andrea T.
+D1187,VATTIMO COSTRUZIONI | FLEX | 2025,Vattimo Costruzioni S.n.c.,IT93271040541,Referral,,Closed Won,13340.0,2025-10-25,Sara B.
+D1039,ORENGO MECCANICA | PREMIUM | 2025,Orengo Meccanica S.r.l.s., 31003309232 ,Partner,Paghe & Co,Closed Won,28610.0,2025-06-16,Luca M.
+D1115,GARIBALDI CONSULTING | FLEX | 2025,Garibaldi Consulting S.r.l.s., 12868230047 ,Partner,Paghe & Co,Closed Won,14800.0,2025-01-16,Luca M.
+D1171,PUCCI PLASTICA | CORE | 2025,Pucci Plastica S.p.A., 91212775618 ,Referral,,Closed Won,3280.0,2025-02-18,Andrea T.
+D1247,FAVATA COSTRUZIONI | CORE | 2025,Favata Costruzioni S.r.l.,IT20539502402,Partner,Rete Imprese Nord,Closed Lost,8820.0,2025-09-29,Sara B.
+D1195,PANICUCCI ENERGIA | PREMIUM | 2025,Panicucci Energia S.r.l.,65307450544,Direct,,Closed Won,4220.0,2025-04-05,Sara B.
+D1118,GAROBBIO PACKAGING | FLEX | 2025,Garobbio Packaging S.p.A.,83028439599,Direct,,Closed Won,12110.0,2025-06-17,Elena F.
+D1163,LANCISI ALIMENTARI | PREMIUM | 2025,Lancisi Alimentari S.r.l.,43006848666,Direct,,Closed Won,4559.67,2025-08-19,Luca M.
+D1130,GUALANDI LOGISTICA | PREMIUM | 2025,Gualandi Logistica S.n.c., 21182339845 ,Referral,,Closed Won,11190.0,2025-08-11,Luca M.
+D1036,PETRASSI PLASTICA | FLEX | 2025,Petrassi  Plastica  S.r.l.,66587603669,Referral,,Closed Won,4270.0,2025-05-09,Giulia R.
+D1196,FIERAMOSCA SOFTWARE | CORE | 2025,Fieramosca Software S.n.c.,13247 546913,Partner,Paghe & Co,Closed Won,1791.45,2025-10-01,Sara B.
+D1034,MENNEA PLASTICA | CORE | 2025,Mennea Plastica S.n.c.,IT76320163287,Direct,,Closed Won,9770.0,2025-02-06,Sara B.
+D1260,PININFARINA ELETTRONICA | PREMIUM | 2025,Pininfarina Elettronica S.n.c.,90104 328986,Referral,,Closed Lost,13160.0,2025-06-18,Giulia R.
+D1283,ERRANI ELETTRONICA | CORE | 2025,Errani Elettronica S.p.A.,IT39187851910,Direct,,Contract Sent,11900.0,2025-03-01,Sara B.
+D1315,MATTEOTTI SERVIZI | FLEX | 2025,Matteotti Servizi S.r.l.,IT62299911914,Referral,,Discovery,14200.0,2025-08-13,Elena F.
+D1289,LOREDAN SERVIZI | FLEX | 2025,Loredan Servizi S.r.l.,12545738757,Partner,Rete Imprese Nord,Closed Lost,3870.0,2025-02-09,Giulia R.
+D1122,NICOLUCCI ENERGIA | CORE | 2025,Nicolucci Energia S.p.A.,43517518304,Referral,,Closed Won,2530.0,2025-05-26,Sara B.
+D1097,PACOMIO ARREDAMENTI | PREMIUM | 2025,Pacomio Arredamenti S.p.A.,13237 058957,Referral,,Contract Sent,6940.0,2025-10-27,Giulia R.
+D1254,SCANDONE PACKAGING | FLEX | 2025,Scandone Packaging S.n.c.,IT43815614978,Direct,,Closed Lost,2220.0,2025-05-03,Andrea T.
+D1087,BOLDÙ ALIMENTARI | FLEX | 2025,Boldù Alimentari S.r.l.s.,IT30515220472,Direct,,Closed Won,3730.0,2025-09-26,Elena F.
+D1116,SBARBARO SERVIZI | PREMIUM | 2025,Sbarbaro Servizi S.n.c.,IT 33752431069,Partner,Rete Imprese Nord,Closed Won,31126.92,2025-05-20,Luca M.
+D1145,FOÀ PLASTICA | PREMIUM | 2025,Foà  Plastica S.p.A.,IT 80737416724,Partner,Rete Imprese Nord,Closed Won,18291.02,2025-05-27,Sara B.
+D1080,ramazzotti servizi | premium | 2025,Ramazzotti Servizi SRLs.,IT 90515186449,Referral,,Closed Won,9347.75,2025-12-24,Luca M.
+D1147,ROSSINI SERVIZI | PREMIUM | 2025,Rossini Servizi S.r.l.,IT58911352909,Partner,Consulenti Riuniti,Closed Won,1070.0,2025-01-17,Andrea T.
+D1124,Gulotta Arredamenti S.r.l.s. Core,Gulotta  Arredamenti  S.r.l.s., 45877175355 ,Referral,,Closed Won,5603.59,2025-12-10,Giulia R.
+D1107,CARDANO ARREDAMENTI | FLEX | 2025,Cardano  Arredamenti srls.,97334843443,Referral,,Closed Won,5140.0,2025-04-18,Giulia R.
+D1012,CAGNIN MECCANICA | FLEX | 2025,CAGNIN MECCANICA S.R.L.,IT 06513338726,Direct,,Closed Won,6430.0,2025-02-15,Andrea T.
+D1223,MORANDINI ALIMENTARI | PREMIUM | 2025,Morandini Alimentari S.r.l.,31051834738,Direct,,Negotiation,6860.0,2025-10-13,Andrea T.
+D1018,OPIZZI FARMACEUTICA | CORE | 2025,Opizzi Farmaceutica S.r.l.s.,IT35346247510,Referral,,Closed Won,9100.0,2025-07-13,Andrea T.
+D1090,GULOTTA SOFTWARE | PREMIUM | 2025,Gulotta  Software  S.r.l.,IT 51531952058,Direct,,Closed Won,7620.0,2025-04-29,Luca M.
+D1141,PARINI IMPIANTI | CORE,Parini Impianti S.r.l.s.,72126464715,Direct,,Closed Won,23130.0,2025-01-18,Giulia R.
+D1307,MANCINI SERVIZI | FLEX | 2025,Mancini Servizi S.p.A.,IT34456557431,Direct,,Closed Lost,24120.0,2025-03-06,Luca M.
+D1001,Camicione Arredamenti S.r.l.s. Premium,Camicione  Arredamenti  S.r.l.s.,94078 161849,Direct,,Closed Won,32780.0,2025-02-13,Elena F.
+D1126,CANOVA PLASTICA | FLEX | 2025,Canova Plastica S.r.l.s.,36937854777,Partner,Rete Imprese Nord,Closed Won,13810.0,2025-06-16,Andrea T.
+D1268,VISMARA SOFTWARE | PREMIUM | 2025,Vismara Software S.p.A.,49818 299229,Partner,Studio Aurora,Closed Lost,8390.0,2025-10-08,Andrea T.
+D1280,NUGNES ELETTRONICA | PREMIUM | 2025,Nugnes Elettronica S.p.A.,40049915478,Referral,,Closed Lost,3730.0,2025-11-07,Sara B.
+D1047,CUDA IMPIANTI | FLEX | 2025,Cuda Impianti S.n.c.,77520471167,Partner,Consulenti Riuniti,Closed Won,4280.0,2025-09-13,Giulia R.
+D1056,VIANELLO CONSULTING | CORE | 2025,Vianello Consulting S.n.c., 87558867533 ,Direct,,Closed Won,15630.0,2025-08-21,Luca M.
+D1073,VIGLIOTTI FARMACEUTICA | FLEX | 2025,Vigliotti  Farmaceutica srl, 07622683885 ,Direct,,Closed Won,8080.0,2025-09-26,Luca M.
+D1228,ZAMORANI LOGISTICA | CORE | 2025,Zamorani Logistica S.n.c.,99016 272046,Referral,,Negotiation,6500.0,2025-10-31,Andrea T.
+D1318,SAVORGNAN FARMACEUTICA | PREMIUM | 2025,Savorgnan Farmaceutica S.p.A.,87584282417,Partner,Paghe & Co,Contract Sent,5360.0,2025-03-22,Giulia R.
+D1302,MEZZETTA ALIMENTARI | FLEX | 2025,Mezzetta Alimentari S.p.A.,41418 328569,Referral,,Closed Lost,3360.0,2025-01-09,Sara B.
+D1240,FRANSCINI FARMACEUTICA | FLEX | 2025,Franscini Farmaceutica S.r.l.,71870262174,Partner,Rete Imprese Nord,Closed Lost,3540.0,2025-12-19,Andrea T.
+D1013,MURATORI TRASPORTI | PREMIUM | 2025,Muratori Trasporti S.r.l.s.,IT73178108013,Direct,,Closed Won,8830.0,2025-11-02,Andrea T.
+D1108,CONTARINI ELETTRONICA | PREMIUM | 2025,Contarini Elettronica S.r.l.s.,IT 75844198665,Referral,,Closed Won,8260.0,2025-09-27,Elena F.
+D1286,ROERO LOGISTICA | CORE | 2025,Roero Logistica S.n.c.,23120 387509,Direct,,Closed Lost,7840.0,2025-08-28,Giulia R.
+D1201,TOGNAZZI SOFTWARE | CORE | 2025,Tognazzi  Software  S.r.l.s., 46657437489 ,Partner,Paghe & Co,Closed Won,5760.0,2025-06-29,Andrea T.
+D1037,COCCI LOGISTICA | FLEX | 2025,Cocci Logistica S.n.c., 70546688937 ,Direct,,Closed Won,18450.0,2025-01-28,Giulia R.
+D1297,TURCHI FARMACEUTICA | CORE | 2025,Turchi Farmaceutica S.r.l.s.,58929 750017,Referral,,Closed Lost,3580.0,2025-04-06,Andrea T.
+D1015,VALGUARNERA IMPIANTI | PREMIUM | 2025,VALGUARNERA IMPIANTI S.N.C.,,Direct,,Closed Won,5390.0,2025-10-28,Giulia R.
+D1284,CANNIZZARO SOFTWARE | CORE | 2025,Cannizzaro Software S.r.l.,IT39106518017,Partner,Rete Imprese Nord,Contract Sent,9820.0,2025-09-22,Andrea T.
+D1151,GOTTI ENERGIA | PREMIUM | 2025,GOTTI ENERGIA S.R.L.,IT 55792499125,Referral,,Closed Won,3000.0,2025-11-09,Sara B.
+D1156,CASSARÀ CONSULTING | PREMIUM | 2025,Cassarà Consulting S.r.l.s.,66711 684577,Partner,Studio Aurora,Closed Won,5570.0,2025-02-07,Sara B.
+D1192,PACILLO COSTRUZIONI | CORE | 2025,Pacillo  Costruzioni  S.n.c.,,Partner,Paghe & Co,Closed Won,7160.0,2025-10-24,Andrea T.
+D1157,CHIESA FARMACEUTICA | CORE | 2025,CHIESA FARMACEUTICA S.R.L.,17518 636374,Partner,Paghe & Co,Closed Won,4261.73,2025-11-27,Sara B.
+D1191,CAROCCI COSTRUZIONI | FLEX | 2025,Carocci Costruzioni S.r.l., 58693806868 ,Partner,Paghe & Co,Closed Won,7360.0,2025-05-31,Sara B.
+D1272,FIORUCCI ELETTRONICA | FLEX | 2025,Fiorucci Elettronica S.r.l.,16873 395004,Direct,,Negotiation,36590.0,2025-05-25,Andrea T.
+D1079,PENNETTA PACKAGING | FLEX | 2025,pennetta packaging s.p.a.,,Partner,Rete Imprese Nord,Closed Won,3560.0,2025-01-12,Elena F.
+D1021,BOTTARO COSTRUZIONI | PREMIUM | 2025,bottaro costruzioni s.p.a.,IT 44935348740,Direct,,Closed Won,18330.0,2025-07-01,Andrea T.
+D1149,FILANGIERI PLASTICA | FLEX | 2025,Filangieri  Plastica  S.n.c., 96603341918 ,Referral,,Closed Won,6440.0,2025-09-01,Andrea T.
+D1273,CABIBBO SOFTWARE | CORE | 2025,Cabibbo Software S.r.l.,IT21655852398,Referral,,Closed Lost,5780.0,2025-04-12,Sara B.
+D1062,VISINTINI MECCANICA | PREMIUM | 2025,Visintini Meccanica S.n.c.,43953394210,Partner,Rete Imprese Nord,Closed Won,2890.0,2025-08-01,Elena F.
+D1057,MAZZACURATI FARMACEUTICA | PREMIUM | 2025,Mazzacurati Farmaceutica S.n.c.,IT15865780913,Referral,,Closed Won,3000.0,2025-12-04,Andrea T.
+D1210,BACOSI MECCANICA | PREMIUM | 2025,Bacosi  Meccanica srl,IT 00167618472,Partner,Rete Imprese Nord,Closed Won,5300.0,2025-12-17,Luca M.
+D1279,OSCURO FARMACEUTICA | PREMIUM | 2025,Oscuro Farmaceutica S.r.l.s., 01938026206 ,Partner,Rete Imprese Nord,Closed Lost,5520.0,2025-07-16,Sara B.
+D1300,TREMONTI PACKAGING | PREMIUM | 2025,Tremonti Packaging S.p.A.,IT 11219656523,Partner,Studio Aurora,Discovery,3630.0,2025-05-08,Giulia R.
+D1081,COSTANZI CONSULTING | FLEX | 2025,Costanzi Consulting S.r.l.s.,IT 19254629148,Partner,Studio Aurora,Closed Won,3760.0,2025-02-04,Sara B.
+D1017,VILLAROSA ALIMENTARI | CORE | 2025,Villarosa Alimentari S.p.A.,IT 61939909169,Direct,,Closed Won,3700.0,2025-10-14,Elena F.
+D1243,GERMANO ARREDAMENTI | PREMIUM | 2025,Germano Arredamenti S.r.l.,IT 60481754965,Direct,,Contract Sent,7020.0,2025-12-20,Sara B.
+D1234,TASCA TESSILE | CORE | 2025,Tasca Tessile S.n.c.,77496 499091,Partner,Paghe & Co,Closed Lost,12540.0,2025-08-19,Luca M.
+D1109,GRECO ELETTRONICA | PREMIUM | 2025,Greco Elettronica S.p.A.,IT 87431527420,Referral,,Closed Won,9911.0,2025-04-03,Giulia R.
+D1061,GASPERI TRASPORTI | FLEX | 2025,Gasperi Trasporti S.r.l.,IT75946474367,Direct,,Closed Won,4910.0,2025-02-06,Giulia R.
+D1271,FRACCI SERVIZI | CORE | 2025,Fracci Servizi S.p.A.,IT25953278774,Referral,,Negotiation,3310.0,2025-08-20,Sara B.
+D1263,BORGHESE ALIMENTARI | PREMIUM | 2025,Borghese Alimentari S.p.A.,55690927557,Referral,,Closed Lost,20250.0,2025-01-11,Luca M.
+D1305,PARPINEL IMPIANTI | FLEX | 2025,Parpinel Impianti S.r.l.,38367 024103,Referral,,Contract Sent,41880.0,2025-01-07,Elena F.
+D1235,CORRER COSTRUZIONI | CORE | 2025,Correr Costruzioni S.p.A.,IT 24210249947,Direct,,Contract Sent,6830.0,2025-09-09,Andrea T.
+D1249,BIGNARDI SERVIZI | PREMIUM | 2025,Bignardi Servizi S.r.l.,IT56545271111,Referral,,Closed Lost,9310.0,2025-08-21,Luca M.
+D1066,BONDUMIER COSTRUZIONI | PREMIUM | 2025,Bondumier Costruzioni S.p.A.,00471 138267,Partner,Rete Imprese Nord,Closed Won,5540.0,2025-06-16,Elena F.
+D1259,FANTONI SERVIZI | PREMIUM | 2025,Fantoni Servizi S.r.l., 37506068536 ,Referral,,Discovery,5110.0,2025-03-03,Sara B.
+D1074,BENUSSI ALIMENTARI | FLEX | 2025,BENUSSI ALIMENTARI S.N.C.,IT06071596966,Partner,Paghe & Co,Closed Won,7580.0,2025-08-10,Elena F.
+D1084,MAZZINI FARMACEUTICA | FLEX | 2025,MAZZINI FARMACEUTICA S.P.A., 96222927065 ,Partner,Rete Imprese Nord,Closed Won,5430.0,2025-11-17,Andrea T.
+D1214,BRICCIALDI SOFTWARE | FLEX | 2025,BRICCIALDI SOFTWARE S.N.C.,IT76212021697,Direct,,Closed Won,2530.0,2025-12-19,Andrea T.
+D1251,VALGUARNERA LOGISTICA | PREMIUM | 2025,Valguarnera Logistica S.r.l.s.,02445502296,Referral,,Discovery,4030.0,2025-08-11,Luca M.
+D1226,FRESCOBALDI ALIMENTARI | PREMIUM | 2025,Frescobaldi Alimentari S.r.l.s.,34558122362,Direct,,Closed Lost,4880.0,2025-12-04,Giulia R.
+D1217,SIMEONI COSTRUZIONI | FLEX | 2025,Simeoni Costruzioni S.n.c., 37562890028 ,Referral,,Closed Won,8410.0,2025-03-16,Luca M.
+D1256,PARINI MECCANICA | PREMIUM | 2025,Parini Meccanica S.r.l.s.,IT41199867980,Referral,,Closed Lost,20230.0,2025-05-23,Giulia R.
+D1136,MANTEGNA ENERGIA | PREMIUM | 2025,Mantegna Energia S.r.l.s., 04773586629 ,Direct,,Closed Won,4080.0,2025-01-16,Sara B.
+D1203,RISMONDO FARMACEUTICA | FLEX | 2025,Rismondo  Farmaceutica  S.p.A.,07446 660993,Direct,,Contract Sent,24744.3,2025-07-12,Elena F.
+D1266,CUDA CONSULTING | PREMIUM | 2025,Cuda Consulting S.r.l.,14678 669125,Partner,Studio Aurora,Negotiation,18530.0,2025-08-13,Andrea T.
+D1287,BONATTI TRASPORTI | FLEX | 2025,Bonatti Trasporti S.r.l.s.,03926142939,Partner,Consulenti Riuniti,Negotiation,4710.0,2025-03-17,Elena F.
+D1207,LIGUORI CONSULTING | PREMIUM | 2025,Liguori Consulting S.r.l.,IT68942104478,Direct,,Closed Won,12400.0,2025-10-22,Luca M.
+D1270,IANNUCCI IMPIANTI | FLEX | 2025,Iannucci Impianti S.r.l.s., 73647102767 ,Direct,,Closed Lost,26220.0,2025-02-26,Sara B.
+D1190,CORRADI ELETTRONICA | CORE | 2025,Corradi Elettronica S.r.l.,46774186256,Direct,,Closed Won,13200.0,2025-02-09,Andrea T.
+D1040,BURCARDO COSTRUZIONI | FLEX | 2025,Burcardo Costruzioni S.r.l., 49663193149 ,Referral,,Closed Won,8330.0,2025-11-22,Sara B.
+D1229,CICILIA ELETTRONICA | PREMIUM | 2025,Cicilia Elettronica S.r.l.,IT93745299124,Partner,Paghe & Co,Closed Lost,3470.0,2025-09-06,Luca M.
+D1110,COSTALONGA TRASPORTI | FLEX | 2025,Costalonga Trasporti S.p.A.,IT 75304637454,Partner,Consulenti Riuniti,Closed Won,660.0,2025-11-12,Giulia R.
+D1244,LIGORIO ARREDAMENTI | PREMIUM | 2025,Ligorio Arredamenti S.n.c.,IT 92617964053,Partner,Paghe & Co,Closed Lost,6780.0,2025-03-27,Giulia R.
+D1067,SERRAGLIO PLASTICA | PREMIUM | 2025,Serraglio Plastica S.p.A.,35290 422842,Referral,,Closed Won,7500.0,2025-10-09,Andrea T.
+D1311,BOMBIERI SERVIZI | FLEX | 2025,Bombieri Servizi S.p.A.,96201 533688,Direct,,Contract Sent,35010.0,2025-06-20,Elena F.
+D1032,GIACCONI IMPIANTI | CORE | 2025,Giacconi Impianti S.p.A.,32003791769,Referral,,Closed Won,4460.0,2025-09-07,Sara B.
+D1048,TOMASELLI PLASTICA | CORE | 2025,tomaselli plastica s.p.a.,41232812067,Partner,Paghe & Co,Closed Won,3290.0,2025-04-09,Andrea T.
+D1042,CURATOLI SERVIZI | CORE | 2025,Curatoli  Servizi  S.r.l.s.,72628 498776,Partner,Rete Imprese Nord,Closed Won,4390.0,2025-12-19,Elena F.
+D1211,SQUARCIONE COSTRUZIONI | FLEX | 2025,squarcione costruzioni s.r.l.s.,IT11739348356,Partner,Consulenti Riuniti,Closed Won,7150.0,2025-09-06,Luca M.
+D1218,CARACCIOLO COSTRUZIONI | FLEX | 2025,Caracciolo Costruzioni S.r.l., 43321819600 ,Referral,,Closed Lost,2970.0,2025-11-10,Giulia R.
+D1076,DELLUCCI SERVIZI | CORE | 2025,Dellucci Servizi S.n.c.,IT 81645352181,Direct,,Closed Won,1072.96,2025-05-07,Elena F.
+D1051,ORSINI TRASPORTI | FLEX | 2025,Orsini Trasporti S.r.l.s.,67468 071545,Partner,Studio Aurora,Closed Won,8620.0,2025-03-27,Giulia R.
+D1233,ADINOLFI ALIMENTARI | CORE | 2025,Adinolfi Alimentari S.r.l., 22941318699 ,Referral,,Closed Lost,3270.0,2025-10-05,Andrea T.
+D1185,GRIFEO ARREDAMENTI | PREMIUM | 2025,Grifeo Arredamenti S.r.l.s.,21570433154,Partner,Paghe & Co,Closed Won,19940.0,2025-12-12,Elena F.
+D1099,CANEVASCINI PACKAGING | FLEX | 2025,Canevascini Packaging S.p.A., 59255562588 ,Referral,,Closed Won,13270.0,2025-02-13,Luca M.
+D1299,CUNDARI PLASTICA | CORE | 2025,Cundari Plastica S.n.c.,12938700516,Partner,Paghe & Co,Negotiation,4620.0,2025-05-29,Sara B.
+D1265,BOMBIERI PACKAGING | FLEX | 2025,Bombieri Packaging S.p.A.,IT 71551884422,Partner,Rete Imprese Nord,Closed Lost,2250.0,2025-07-18,Luca M.
+D1168,PRAGA MECCANICA | CORE | 2025,Praga Meccanica S.p.A., 38061744518 ,Direct,,Closed Won,3840.0,2025-03-10,Luca M.
+D1054,BOMPIANI IMPIANTI | CORE | 2025,Bompiain Impianti S.r.l.s.,,Direct,,Closed Won,4460.0,2025-05-09,Elena F.
+D1127,MUSATTI TRASPORTI | FLEX | 2025,Musatti Trasporti S.r.l.s.,22872 808010,Direct,,Closed Won,4930.0,2025-10-22,Giulia R.
+D1267,TRUPIANO COSTRUZIONI | PREMIUM | 2025,Trupiano Costruzioni S.p.A.,42253584143,Partner,Consulenti Riuniti,Negotiation,7010.0,2025-06-20,Elena F.
+D1194,ASPRUCCI ARREDAMENTI | PREMIUM | 2025,ASPRUCCI ARREDAMENTI S.N.C.,IT46799702462,Referral,,Closed Won,7260.0,2025-03-31,Giulia R.
+D1072,BORROMINI IMPIANTI | FLEX | 2025,Borromin iImpianti S.r.l.,,Direct,,Closed Won,12970.0,2025-02-10,Andrea T.

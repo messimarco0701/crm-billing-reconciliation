@@ -1,0 +1,210 @@
+contract_id,customer_name,vat_number,product,start_date,end_date,annual_fee,status,city
+C5001,Camicione Arredamenti S.r.l.s.,94078161849,Premium,2025-02-27,2026-02-26,32780.0,Active,San Vito Di Altivole
+C5002,Querini Arredamenti S.p.A.,10341316475,Premium,2025-12-13,2026-12-12,10800.0,Active,Villa Saviola
+C5003,Baggio Trasporti S.r.l.s.,53419283276,Flex,2025-01-20,2026-01-19,5980.0,Active,San Godenzo
+C5004,Tirabassi Plastica S.n.c.,67242388496,Flex,2025-02-28,2026-02-27,6480.0,Active,Busetti
+C5005,Zamorani Energia S.r.l.s.,32871012269,Flex,2025-08-05,2026-08-04,9840.0,Active,Taverne D'Arbia
+C5006,Verdone Alimentari S.n.c.,69784801845,Premium,2025-08-29,2026-08-28,17680.0,Active,Prade
+C5007,Galuppi Costruzioni S.r.l.s.,62704828148,Premium,2025-04-12,2026-04-11,14520.0,Active,Bosco Di Galliera
+C5008,Lettiere Plastica S.p.A.,52880957015,Core,2025-07-20,2026-07-19,12210.0,Active,Simeri
+C5009,Cuomo Impianti S.p.A.,03911718227,Core,2026-01-12,2027-01-11,8330.0,Active,Valgatara
+C5010,Cremonesi Packaging S.r.l.,33150983930,Premium,2025-06-26,2026-06-25,7510.0,Active,Caturano
+C5011,Cabibbo Consulting S.n.c.,37631165667,Core,2025-07-03,2026-07-02,3280.0,Active,Compiano
+C5012,Cagnin Meccanica S.r.l.,06513338726,Flex,2025-03-17,2026-03-16,6430.0,Active,Olmo
+C5013,Battaglia Trasporti S.n.c.,77360260647,Flex,2025-10-08,2026-10-07,3150.0,Active,Marinasco
+C5014,Valguarnera Impianti S.n.c.,87234309805,Premium,2025-12-07,2026-12-06,5390.0,Active,Montevirginio
+C5015,Pareto Meccanica S.r.l.,97882081219,Core,2025-10-31,2026-10-30,12480.0,Active,Montelparo
+C5016,Opizzi Farmaceutica S.r.l.s.,35346247510,Core,2025-08-16,2026-08-15,9100.0,Active,Pozzaglio
+C5017,Bonanno Packaging S.r.l.,18384251354,Premium,2025-06-07,2026-06-06,15670.0,Active,Vinchiaturo
+C5018,Gentilini Trasporti S.n.c.,84980841241,Core,2025-01-14,2026-01-13,21290.0,Active,Pianiga
+C5019,Bottaro Costruzioni S.p.A.,44935348740,Premium,2025-07-18,2026-07-17,18330.0,Active,Arcara
+C5020,Callegaro Alimentari S.n.c.,40052427868,Flex,2025-05-13,2026-05-12,4780.0,Active,Sorbo
+C5021,Lettiere Logistica S.r.l.,12805982620,Premium,2025-11-29,2026-11-28,5700.0,Active,Montecatini Val Di Cecina
+C5022,Ossani Impianti S.r.l.s.,05331586923,Core,2025-10-19,2026-10-18,6590.0,Active,Selvotta
+C5023,Paganini Trasporti S.p.A.,60256342160,Premium,2025-07-27,2026-07-26,6020.0,Active,Pozzo Di Gualdo Cattaneo
+C5024,Bongiorno Alimentari S.r.l.s.,58685014294,Core,2025-05-05,2026-05-04,15660.0,Active,Cetraro Marina
+C5025,Udinese Meccanica S.r.l.,96556981693,Core,2025-12-01,2026-11-30,6140.0,Active,Coperchia
+C5026,Dalla Software S.r.l.,60883561595,Core,2025-04-26,2026-04-25,11480.0,Active,Spigno Saturnia
+C5027,Parisi Costruzioni S.r.l.s.,84656482366,Premium,2025-05-17,2026-05-16,4820.0,Active,Montegiorgio
+C5028,Volta Trasporti S.r.l.s.,68044369957,Flex,2025-12-29,2026-12-28,13870.0,Active,Poppino
+C5029,Mocenigo Packaging S.n.c.,38721489513,Core,2025-07-15,2026-07-14,5280.0,Active,Lignano Sabbiadoro
+C5030,Giacconi Impianti S.p.A.,32003791769,Core,2025-10-03,2026-10-02,4460.0,Active,Resina
+C5031,Mennea Plastica S.n.c.,76320163287,Core,2025-02-28,2026-02-27,9770.0,Active,Trarego Viggiona
+C5032,Franceschi Servizi S.n.c.,27743487347,Premium,2025-09-01,2026-08-31,8630.0,Active,Deutschnofen
+C5033,Petrassi Plastica S.r.l.,66587603669,Flex,2025-05-20,2026-05-19,4270.0,Active,San Giorgio Su Legnano
+C5034,Cocci Logistica S.n.c.,70546688937,Flex,2025-02-08,2026-02-07,18450.0,Active,Masiera
+C5035,Renzi Farmaceutica S.p.A.,75564641708,Core,2025-08-01,2026-07-31,7980.0,Active,Bosa Marina
+C5036,Orengo Meccanica S.r.l.s.,31003309232,Premium,2025-07-25,2026-07-24,28610.0,Active,Roccalbegna
+C5037,Burcardo Costruzioni S.r.l.,49663193149,Flex,2025-12-27,2026-12-26,8330.0,Active,Cardano
+C5038,Capecchi Costruzioni S.r.l.,58651850671,Premium,2025-06-20,2026-06-19,5100.0,Active,Antrosano
+C5039,Trupiano Plastica S.r.l.,36783777014,Flex,2025-05-06,2026-05-05,14880.0,Active,Rigoli
+C5040,Visconti Tessile S.n.c.,34957885685,Flex,2025-06-03,2026-06-02,4590.0,Active,Centallo
+C5041,Carocci Arredamenti S.n.c.,44431351823,Flex,2025-07-04,2026-07-03,11330.0,Active,Casargo
+C5042,Magrassi Impianti S.r.l.,82400842710,Flex,2025-10-06,2026-10-05,5560.0,Active,Loconia
+C5043,Cuda Impianti S.n.c.,77520471167,Flex,2025-10-05,2026-10-04,4280.0,Active,San Prisco
+C5044,Tomaselli Plastica S.p.A.,41232812067,Core,2025-04-29,2026-04-28,3290.0,Active,Ragazzola
+C5045,Mancini Elettronica S.r.l.s.,03447134936,Premium,2025-12-14,2026-12-13,9260.0,Active,Peccioli
+C5046,Moccia Farmaceutica S.r.l.s.,01399049027,Premium,2025-05-22,2026-05-21,20520.0,Active,Cassino
+C5047,Orsini Trasporti S.r.l.s.,67468071545,Flex,2025-05-01,2026-04-30,8620.0,Active,Polverina
+C5048,Giradello Costruzioni S.n.c.,80876038597,Premium,2025-02-23,2026-02-22,8200.0,Active,Sant'Anna Avagnina
+C5049,Bompiani Impianti S.r.l.s.,67737826398,Core,2025-06-14,2026-06-13,4460.0,Active,Viale
+C5050,Ceri Consulting S.r.l.,46584044997,Flex,2025-07-18,2026-07-17,8140.0,Active,Peschiera
+C5051,Vianello Consulting S.n.c.,87558867533,Core,2025-08-27,2026-08-26,15630.0,Active,San Lorenzo Pioppa
+C5052,Mazzacurati Farmaceutica S.n.c.,15865780913,Premium,2025-12-27,2026-12-26,3000.0,Active,Santa Severa
+C5053,Palombi Impianti S.p.A.,16117240050,Core,2025-03-07,2026-03-06,6030.0,Active,Margine Coperta
+C5054,Casini Energia S.p.A.,79237474074,Flex,2025-03-13,2026-03-12,3950.0,Active,Gallipoli
+C5055,Gasperi Trasporti S.r.l.,75946474367,Flex,2025-03-12,2026-03-11,4910.0,Active,Ramponio Verna
+C5056,Visintini Meccanica S.n.c.,43953394210,Premium,2025-08-08,2026-08-07,2890.0,Active,Montescano
+C5057,Galuppi Impianti S.n.c.,09521456232,Premium,2025-05-29,2026-05-28,3830.0,Active,Bibbiena Stazione
+C5058,Bondumier Arredamenti S.r.l.s.,24745171236,Premium,2025-04-29,2026-04-28,3660.0,Active,Valle San Bartolomeo
+C5059,Bajardi Costruzioni S.p.A.,70985931746,Premium,2025-03-10,2026-03-09,6090.0,Active,Raccano
+C5060,Bondumier Costruzioni S.p.A.,00471138267,Premium,2025-07-06,2026-07-05,5540.0,Active,Folgaria
+C5061,Serraglio Plastica S.p.A.,35290422842,Premium,2025-10-14,2026-10-13,7500.0,Active,Madonna Delle Bozzole
+C5062,Nolcini Meccanica S.r.l.s.,70076617711,Premium,2025-01-27,2026-01-26,3720.0,Active,Marzaglia
+C5063,Polani Farmaceutica S.p.A.,12499856984,Core,2025-11-07,2026-11-06,9280.0,Active,San Sossio Di Serino
+C5064,Bernini Packaging S.n.c.,11836736576,Flex,2025-11-13,2026-11-12,3980.0,Active,Sant'Eusanio Del Sangro
+C5065,Grasso Servizi S.r.l.,49451983273,Premium,2025-09-29,2026-09-28,3800.0,Active,Arquata Del Tronto
+C5066,Borromini Impianti S.r.l.,36900343244,Flex,2025-02-22,2026-02-21,12970.0,Active,Resiutta
+C5067,Vigliotti Farmaceutica S.r.l.,07622683885,Flex,2025-10-10,2026-10-09,8080.0,Active,Variglie
+C5068,Benussi Alimentari S.n.c.,06071596966,Flex,2025-08-18,2026-08-17,7580.0,Active,Dorzano
+C5069,Cabrini Impianti S.r.l.,60529751613,Premium,2025-10-01,2026-09-30,6170.0,Active,Nibbia
+C5070,Dellucci Servizi S.n.c.,81645352181,Core,2025-05-17,2026-05-16,1070.0,Active,Spigno Monferrato
+C5071,Spanevello Plastica S.r.l.s.,52312432921,Flex,2025-07-13,2026-07-12,9680.0,Active,Terzo Di Tolmezzo
+C5072,Biagiotti Elettronica S.n.c.,44905814770,Core,2025-01-31,2026-01-30,6450.0,Active,San Matteo Della Decima
+C5073,Pennetta Packaging S.p.A.,59782071518,Flex,2025-02-16,2026-02-15,3560.0,Active,Borgata Casalotti
+C5074,Ramazzotti Servizi S.r.l.s.,90515186449,Premium,2026-01-15,2027-01-14,9340.0,Active,Etabloz
+C5075,Costanzi Consulting S.r.l.s.,19254629148,Flex,2025-03-05,2026-03-04,3760.0,Active,Tagliaferro
+C5076,Malenchini Energia S.r.l.s.,28168505423,Flex,2025-03-29,2026-03-28,22240.0,Active,Corlo Di Formigine
+C5077,Biagi Farmaceutica S.n.c.,33221418880,Core,2025-02-05,2026-02-04,8760.0,Active,Bardello
+C5078,Mazzini Farmaceutica S.p.A.,96222927065,Flex,2025-11-23,2026-11-22,5430.0,Active,Lasino
+C5079,Benigni Tessile S.n.c.,94738347359,Premium,2025-07-14,2026-07-13,13540.0,Active,Terraverde
+C5080,Boldù Alimentari S.r.l.s.,30515220472,Flex,2025-10-11,2026-10-10,3730.0,Active,Porto D'Ascoli
+C5081,Bragadin Logistica S.p.A.,24609539621,Core,2025-04-02,2026-04-01,3030.0,Active,Petriolo
+C5082,Zetticci Arredamenti S.r.l.,88888067065,Core,2025-12-15,2026-12-14,3380.0,Active,Celle Di Macra
+C5083,Gulotta Software S.r.l.,51531952058,Premium,2025-06-05,2026-06-04,7620.0,Active,San Cassiano Di Controni
+C5084,Impastato Meccanica S.r.l.s.,48687403450,Flex,2025-05-18,2026-05-17,3210.0,Active,Borgo Castelletto
+C5085,Saragat Software S.r.l.,61692845115,Flex,2025-12-17,2026-12-16,4980.0,Active,Campo Di Carne
+C5086,Bonolis Impianti S.r.l.s.,79627570596,Premium,2025-02-27,2026-02-26,11970.0,Active,Matsc
+C5087,Satta Software S.r.l.,16582029702,Premium,2025-11-05,2026-11-04,4660.0,Active,Briatico
+C5088,Chiappetta Energia S.r.l.,44739473121,Core,2025-02-07,2026-02-06,4340.0,Active,Toscanella
+C5089,Pacomio Arredamenti S.p.A.,13237058957,Premium,2025-11-12,2026-11-11,6940.0,Active,Rocca Priora
+C5090,Vento Alimentari S.n.c.,78528922680,Core,2025-04-24,2026-04-23,9860.0,Active,Mazzarrone
+C5091,Canevascini Packaging S.p.A.,59255562588,Flex,2025-03-14,2026-03-13,13270.0,Active,Petriccio
+C5092,Lanfranchi Costruzioni S.r.l.s.,37147321046,Premium,2025-06-29,2026-06-28,4180.0,Active,Adegliacco
+C5093,Togliatti Elettronica S.n.c.,48016245650,Core,2025-09-07,2026-09-06,3550.0,Active,Solarolo
+C5094,Gregorio Energia S.r.l.,98358416878,Flex,2025-11-09,2026-11-08,5170.0,Active,Santa Maria A Monte
+C5095,Lercari Energia S.r.l.,00257872982,Core,2025-01-22,2026-01-21,5950.0,Active,San Damaso
+C5096,Cusano Tessile S.r.l.,97289623091,Flex,2025-12-16,2026-12-15,440.0,Active,Seniga
+C5097,Villadicani Plastica S.r.l.,75626368970,Flex,2026-01-08,2027-01-07,6230.0,Active,Caldare
+C5098,Zamengo Consulting S.p.A.,85786527858,Flex,2025-08-12,2026-08-11,3950.0,Active,Greggio
+C5099,Cardano Arredamenti S.r.l.s.,97334843443,Flex,2025-05-23,2026-05-22,5140.0,Active,Nocera Superiore
+C5100,Contarini Elettronica S.r.l.s.,75844198665,Premium,2025-11-02,2026-11-01,8260.0,Active,Salce
+C5101,Greco Elettronica S.p.A.,87431527420,Premium,2025-04-15,2026-04-14,11660.0,Active,Fiumicino Di Savignano
+C5102,Costalonga Trasporti S.p.A.,75304637454,Flex,2025-11-29,2026-11-28,660.0,Active,Cascine Gandini
+C5103,Cutuli Logistica S.r.l.s.,53017426841,Premium,2025-07-03,2026-07-02,2800.0,Active,Palese
+C5104,Polizzi Plastica S.p.A.,25871397187,Core,2025-02-19,2026-02-18,13610.0,Active,Castronovo
+C5105,Interiano Meccanica S.n.c.,28679087406,Flex,2025-11-26,2026-11-25,9490.0,Active,Mondragone
+C5106,Barozzi Meccanica S.r.l.s.,62265676618,Premium,2025-07-08,2026-07-07,3500.0,Active,Ronco
+C5107,Garibaldi Consulting S.r.l.s.,12868230047,Flex,2025-01-28,2026-01-27,14800.0,Active,Cunevo
+C5108,Sbarbaro Servizi S.n.c.,33752431069,Premium,2025-06-27,2026-06-26,31010.0,Active,Scurcola Marsicana
+C5109,Marino Logistica S.p.A.,31190790306,Core,2025-02-26,2026-02-25,4160.0,Active,Arco Felice
+C5110,Garobbio Packaging S.p.A.,83028439599,Flex,2025-06-30,2026-06-29,12110.0,Active,Corno Giovine
+C5111,Ferragni Farmaceutica S.p.A.,42836440892,Flex,2025-10-29,2026-10-28,11110.0,Active,Montesicuro
+C5112,Mondaini Servizi S.n.c.,05685662462,Flex,2025-05-10,2026-05-09,16010.0,Active,Montenars
+C5113,Bonanno Elettronica S.p.A.,34270866882,Flex,2025-12-10,2026-12-09,4690.0,Active,Supersano
+C5114,Nicolucci Energia S.p.A.,43517518304,Core,2025-07-04,2026-07-03,2530.0,Active,Montalto Ligure
+C5115,Valguarnera Energia S.r.l.,13983735403,Core,2025-08-16,2026-08-15,6060.0,Active,Vadue
+C5116,Gulotta Arredamenti S.r.l.s.,45877175355,Core,2026-01-13,2027-01-12,5580.0,Active,Ponte Nossa
+C5117,Impastato Servizi S.r.l.,93204899642,Core,2025-09-26,2026-09-25,14510.0,Active,Civitella Roveto
+C5118,Canova Plastica S.r.l.s.,36937854777,Flex,2025-07-20,2026-07-19,13810.0,Active,Trofarello
+C5119,Musatti Trasporti S.r.l.s.,22872808010,Flex,2025-11-16,2026-11-15,4930.0,Active,Nazzano
+C5120,Pavanello Elettronica S.n.c.,00886008484,Premium,2025-10-18,2026-10-17,16090.0,Active,Borgomanero
+C5121,Gualandi Logistica S.n.c.,21182339845,Premium,2025-08-20,2026-08-19,11190.0,Active,Borgo Giardinetto
+C5122,Roero Software S.n.c.,15679334101,Premium,2025-10-07,2026-10-06,23280.0,Active,Canicatti'
+C5123,Travia Energia S.n.c.,68700217659,Flex,2025-11-16,2026-11-15,9840.0,Active,Mezzano Scotti
+C5124,Ortolani Costruzioni S.r.l.,33974014890,Core,2025-11-02,2026-11-01,7330.0,Active,Cappuccini
+C5125,Mantegna Energia S.r.l.s.,04773586629,Premium,2025-02-14,2026-02-13,4080.0,Active,Trisungo
+C5126,Pizzetti Energia S.r.l.,94311426265,Core,2026-01-06,2027-01-05,5300.0,Active,San Pietro Di Barbozza
+C5127,Pinamonte Arredamenti S.r.l.,10475412126,Flex,2025-04-11,2026-04-10,2050.0,Active,Montecorvino Pugliano
+C5128,Vismara Packaging S.n.c.,10158199560,Premium,2025-09-07,2026-09-06,2600.0,Active,Santa Caterina Villarmosa
+C5129,Fermi Impianti S.n.c.,61839826224,Core,2025-08-07,2026-08-06,7690.0,Active,Capitan Loreto
+C5130,Parini Impianti S.r.l.s.,72126464715,Core,2025-02-01,2026-01-31,23130.0,Active,Costano
+C5131,Manunta Software S.p.A.,79937124065,Premium,2025-12-03,2026-12-02,6660.0,Active,Calvi
+C5132,Vespa Energia S.r.l.s.,75692459375,Premium,2025-02-02,2026-02-01,3630.0,Active,Buttigliera Alta
+C5133,Marenzio Trasporti S.n.c.,54793564651,Core,2025-11-17,2026-11-16,5520.0,Active,Castelnuovo Magra
+C5134,Foà Plastica S.p.A.,80737416724,Premium,2025-06-17,2026-06-16,18290.0,Active,Carvacco
+C5135,Milanesi Tessile S.r.l.s.,26617979688,Flex,2025-11-20,2026-11-19,14040.0,Active,San Lorenzo A Pagnatico
+C5136,Rossini Servizi S.r.l.,58911352909,Premium,2025-02-17,2026-02-16,1070.0,Active,Pescaglia
+C5137,Donarelli Tessile S.n.c.,56798250714,Core,2025-12-01,2026-11-30,4360.0,Active,Fortezza
+C5138,Filangieri Plastica S.n.c.,96603341918,Flex,2025-09-22,2026-09-21,6440.0,Active,San Pelino
+C5139,Armellini Trasporti S.r.l.s.,53714785969,Flex,2025-07-06,2026-07-05,7350.0,Active,Franche
+C5140,Gotti Energia S.r.l.,55792499125,Premium,2025-12-09,2026-12-08,3000.0,Active,Calamoresca
+C5141,Pastine Packaging S.r.l.,50723688767,Premium,2025-12-27,2026-12-26,5700.0,Active,Calasca Castiglione
+C5142,Canetta Meccanica S.n.c.,83613407451,Flex,2025-03-19,2026-03-18,11900.0,Active,Trepuzzi
+C5143,Benigni Costruzioni S.p.A.,60422325367,Flex,2025-09-29,2026-09-28,9280.0,Active,Platania
+C5144,Cassarà Consulting S.r.l.s.,66711684577,Premium,2025-02-28,2026-02-27,5570.0,Active,Frassineto
+C5145,Chiesa Farmaceutica S.r.l.,17518636374,Core,2025-12-08,2026-12-07,4260.0,Active,Villaggio Annunziata
+C5146,Salgari Consulting S.n.c.,13611155426,Flex,2025-10-14,2026-10-13,8210.0,Active,Gerenzago
+C5147,Gramsci Consulting S.p.A.,18909275326,Flex,2025-07-29,2026-07-28,23990.0,Active,Cencenighe Agordino
+C5148,Giovine Software S.r.l.,38999404389,Flex,2025-11-07,2026-11-06,5280.0,Active,Sant'Omero
+C5149,Rosselli Plastica S.n.c.,40376137918,Core,2025-05-17,2026-05-16,2650.0,Active,Taceno
+C5150,Lancisi Alimentari S.r.l.,43006848666,Premium,2025-09-26,2026-09-25,4580.0,Active,Paderno Ponchielli
+C5151,Cicilia Alimentari S.r.l.s.,63031617990,Core,2025-06-04,2026-06-03,8090.0,Active,Castelluccio
+C5152,Gianinazzi Impianti S.p.A.,10202758842,Premium,2025-02-07,2026-02-06,4440.0,Active,Villalago
+C5153,Corradi Arredamenti S.p.A.,41056481491,Core,2025-02-15,2026-02-14,9120.0,Active,Velo Veronese
+C5154,Boccherini Elettronica S.n.c.,85079252419,Core,2025-07-06,2026-07-05,14740.0,Active,Pogliola
+C5155,Praga Meccanica S.p.A.,38061744518,Core,2025-03-16,2026-03-15,3840.0,Active,Allegrezze
+C5156,Foconi Packaging S.r.l.,53494937597,Core,2026-01-11,2027-01-10,8000.0,Active,Piedimonte
+C5157,Pelli Plastica S.p.A.,20603850506,Flex,2025-04-30,2026-04-29,7860.0,Active,San Liberale
+C5158,Pucci Plastica S.p.A.,91212775618,Core,2025-03-08,2026-03-07,3280.0,Active,Camisano Vicentino
+C5159,Spanevello Packaging S.p.A.,17121003236,Core,2025-04-10,2026-04-09,18210.0,Active,Santa Teresa
+C5160,Pellegrini Arredamenti S.r.l.,99410137215,Core,2025-09-27,2026-09-26,3730.0,Active,Selva
+C5161,Pirandello Costruzioni S.r.l.,70296670662,Flex,2025-11-19,2026-11-18,960.0,Active,Caoria
+C5162,Schicchi Arredamenti S.p.A.,24472099934,Flex,2025-08-08,2026-08-07,5670.0,Active,Baricella
+C5163,Udinese Elettronica S.n.c.,87014626383,Core,2025-03-24,2026-03-23,6410.0,Active,Roncrio
+C5164,Brancaccio Logistica S.r.l.s.,93040785932,Flex,2025-03-30,2026-03-29,8690.0,Active,Cerretti
+C5165,Chittolini Costruzioni S.p.A.,34803965223,Core,2025-12-03,2026-12-02,12180.0,Active,Cologna Paese
+C5166,Guinizzelli Trasporti S.n.c.,01039308705,Flex,2025-11-06,2026-11-05,4590.0,Active,Castiglioncello Bandini
+C5167,Monaco Plastica S.p.A.,52500292185,Core,2025-08-16,2026-08-15,11870.0,Active,Capriata D'Orba
+C5168,Santorio Alimentari S.r.l.s.,69154522675,Premium,2025-12-04,2026-12-03,4150.0,Active,Bosio
+C5169,Moresi Trasporti S.r.l.s.,39264422096,Core,2026-01-25,2027-01-24,6630.0,Active,Sant'Angelo Di Mercato San Severino
+C5170,Lettiere Meccanica S.p.A.,95939172513,Premium,2025-09-02,2026-09-01,5790.0,Active,Miseno
+C5171,Grifeo Arredamenti S.r.l.s.,21570433154,Premium,2025-12-19,2026-12-18,19940.0,Active,Cosoleto
+C5172,Segrè Costruzioni S.r.l.,06762676586,Core,2026-02-04,2027-02-03,4730.0,Active,Escolca
+C5173,Vattimo Costruzioni S.n.c.,93271040541,Flex,2025-12-01,2026-11-30,13340.0,Active,Farnetta
+C5174,Nibali Alimentari S.r.l.s.,26218159970,Premium,2025-08-18,2026-08-17,6360.0,Active,Lasa
+C5175,Bajamonti Software S.r.l.s.,43106987205,Core,2025-12-21,2026-12-20,6390.0,Active,Felettis
+C5176,Corradi Elettronica S.r.l.,46774186256,Core,2025-02-23,2026-02-22,13200.0,Active,Ruina
+C5177,Carocci Costruzioni S.r.l.,58693806868,Flex,2025-07-01,2026-06-30,7360.0,Active,Tofe
+C5178,Pacillo Costruzioni S.n.c.,22332061632,Core,2025-11-17,2026-11-16,7160.0,Active,Bergamasco
+C5179,Carocci Software S.r.l.s.,11686854870,Premium,2025-09-20,2026-09-19,4450.0,Active,Torricella
+C5180,Asprucci Arredamenti S.n.c.,46799702462,Premium,2025-04-25,2026-04-24,7260.0,Active,Terravecchia
+C5181,Panicucci Energia S.r.l.,65307450544,Premium,2025-04-19,2026-04-18,4220.0,Active,Trambileno
+C5182,Fieramosca Software S.n.c.,13247546913,Core,2025-10-15,2026-10-14,1800.0,Active,Mirteto
+C5183,Golino Packaging S.p.A.,67850821486,Flex,2025-10-01,2026-09-30,24010.0,Active,Sagliano Micca
+C5184,Manzoni Consulting S.r.l.,23303070534,Premium,2025-10-06,2026-10-05,5730.0,Active,Castel San Pietro
+C5185,Zichichi Arredamenti S.n.c.,86103579727,Core,2025-05-31,2026-05-30,10150.0,Active,Romana
+C5186,Napolitano Arredamenti S.r.l.s.,24140602933,Core,2025-12-04,2026-12-03,4440.0,Active,San Nicola Arcella
+C5187,Tognazzi Software S.r.l.s.,46657437489,Core,2025-07-22,2026-07-21,5760.0,Active,Montalto Pavese
+C5188,Stoppani Farmaceutica S.r.l.s.,54443283096,Flex,2025-04-08,2026-04-07,3480.0,Active,Livorno
+C5189,Rismondo Farmaceutica S.p.A.,07446660993,Flex,2025-07-25,2026-07-24,24710.0,Active,Senigallia
+C5190,Varano Costruzioni S.n.c.,84602235697,Flex,2025-10-17,2026-10-16,4210.0,Active,Villa Petto
+C5191,Inzaghi Trasporti S.p.A.,71296666760,Flex,2025-12-14,2026-12-13,4260.0,Active,Castelfirmiano
+C5192,Govoni Meccanica S.p.A.,50583003354,Flex,2025-02-25,2026-02-24,4140.0,Active,Pietra Ligure
+C5193,Liguori Consulting S.r.l.,68942104478,Premium,2025-11-16,2026-11-15,12400.0,Active,Villanova Monteleone
+C5194,Gori Farmaceutica S.n.c.,25753260332,Core,2025-04-02,2026-04-01,11400.0,Active,Ombriano
+C5195,Parini Plastica S.r.l.,98215064890,Core,2025-02-24,2026-02-23,3960.0,Active,Monte San Biagio
+C5196,Bacosi Meccanica S.r.l.,00167618472,Premium,2025-12-22,2026-12-21,5300.0,Active,Coscogno
+C5197,Squarcione Costruzioni S.r.l.s.,11739348356,Flex,2025-10-16,2026-10-15,7150.0,Active,Rivarotta
+C5198,Leopardi Costruzioni S.p.A.,04556110022,Premium,2026-01-30,2027-01-29,29850.0,Active,Villata
+C5199,Traetta Farmaceutica S.r.l.s.,79415521667,Core,2025-08-27,2026-08-26,5120.0,Active,Tiezzo
+C5200,Briccialdi Software S.n.c.,76212021697,Flex,2025-12-31,2026-12-30,2530.0,Active,Villa Salina
+C5201,Pisano Packaging S.p.A.,96590277167,Flex,2025-08-17,2026-08-16,3010.0,Active,Spirano
+C5202,Vitturi Meccanica S.r.l.,45089935889,Core,2025-02-20,2026-02-19,4200.0,Active,Francavilla Al Mare
+C5203,Simeoni Costruzioni S.n.c.,37562890028,Flex,2025-04-22,2026-04-21,8410.0,Active,Lusia
+C5204,Sagnelli Logistica S.p.A.,75482145653,Core,2025-08-08,2026-08-07,6230.0,Active,Donnalucata
+C5205,Caboto Servizi S.n.c.,85072081155,Flex,2025-08-11,2026-08-10,4500.0,Active,Castelmonte
+C5206,Gangemi Energia S.r.l.,29084668455,Core,2025-07-26,2026-07-25,10270.0,Active,Todiano
+C5207,Gonzaga Plastica S.n.c.,56341085628,Core,2025-09-24,2026-09-23,3060.0,Active,San Floriano Del Collio
+C5208,Pacillo Trasporti S.r.l.,08943468105,Flex,2025-03-05,2026-03-04,4280.0,Active,Montenerodomo
+C5209,Visconti Costruzioni S.n.c.,49075399893,Premium,2025-10-21,2026-10-20,5580.0,Active,Montaldo Roero
